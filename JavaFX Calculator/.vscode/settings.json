@@ -1,0 +1,31 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\Cleorte\\Desktop\\VSC Projects\\JavaFX\\lib\\javafx.base.jar",
+        "c:\\Users\\Cleorte\\Desktop\\VSC Projects\\JavaFX\\lib\\javafx.controls.jar",
+        "c:\\Users\\Cleorte\\Desktop\\VSC Projects\\JavaFX\\lib\\javafx.fxml.jar",
+        "c:\\Users\\Cleorte\\Desktop\\VSC Projects\\JavaFX\\lib\\javafx.graphics.jar",
+        "c:\\Users\\Cleorte\\Desktop\\VSC Projects\\JavaFX\\lib\\javafx.media.jar",
+        "c:\\Users\\Cleorte\\Desktop\\VSC Projects\\JavaFX\\lib\\javafx.swing.jar",
+        "c:\\Users\\Cleorte\\Desktop\\VSC Projects\\JavaFX\\lib\\javafx.web.jar",
+        "c:\\Users\\Cleorte\\Desktop\\VSC Projects\\JavaFX\\lib\\javafx-swt.jar",
+        "c:\\Users\\Lenovo\\Downloads\\javafx-sdk-18.0.1\\lib\\javafx.base.jar",
+        "c:\\Users\\Lenovo\\Downloads\\javafx-sdk-18.0.1\\lib\\javafx.controls.jar",
+        "c:\\Users\\Lenovo\\Downloads\\javafx-sdk-18.0.1\\lib\\javafx.fxml.jar",
+        "c:\\Users\\Lenovo\\Downloads\\javafx-sdk-18.0.1\\lib\\javafx.graphics.jar",
+        "c:\\Users\\Lenovo\\Downloads\\javafx-sdk-18.0.1\\lib\\javafx.media.jar",
+        "c:\\Users\\Lenovo\\Downloads\\javafx-sdk-18.0.1\\lib\\javafx.swing.jar",
+        "c:\\Users\\Lenovo\\Downloads\\javafx-sdk-18.0.1\\lib\\javafx.web.jar",
+        "c:\\Users\\Lenovo\\Downloads\\javafx-sdk-18.0.1\\lib\\javafx-swt.jar",
+        "c:\\Users\\cleor\\Desktop\\VSC Projects\\JavaFX\\lib\\javafx.base.jar",
+        "c:\\Users\\cleor\\Desktop\\VSC Projects\\JavaFX\\lib\\javafx.controls.jar",
+        "c:\\Users\\cleor\\Desktop\\VSC Projects\\JavaFX\\lib\\javafx.fxml.jar",
+        "c:\\Users\\cleor\\Desktop\\VSC Projects\\JavaFX\\lib\\javafx.graphics.jar",
+        "c:\\Users\\cleor\\Desktop\\VSC Projects\\JavaFX\\lib\\javafx.media.jar",
+        "c:\\Users\\cleor\\Desktop\\VSC Projects\\JavaFX\\lib\\javafx.swing.jar",
+        "c:\\Users\\cleor\\Desktop\\VSC Projects\\JavaFX\\lib\\javafx.web.jar",
+        "c:\\Users\\cleor\\Desktop\\VSC Projects\\JavaFX\\lib\\javafx-swt.jar"
+    ]
+}
